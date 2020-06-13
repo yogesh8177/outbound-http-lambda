@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "method": "POST",
+        "url": "http://localhost:6039"
+    },
+    "staging": {
+        "method": "POST",
+        "url": "http://localhost:6039"
+    },
+    "test": {
+        "method": "POST",
+        "url": "http://localhost:6039"
+    }
+}
